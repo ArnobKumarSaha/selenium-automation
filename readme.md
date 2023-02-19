@@ -16,3 +16,6 @@ To install them in my ubuntu machine, I have followed this [steps](https://www.y
 - Fill the form and then click to the Continue button. 
 - Finish the order.
 
+
+## Video
+https://drive.google.com/file/d/1-rMfVMvn119uuURjVYIyRoCA2GAvzdGd/view?usp=sharing
